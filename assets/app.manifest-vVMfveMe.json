@@ -1,0 +1,61 @@
+{
+    "name": "Shariful Aman",
+    "short_name": "SharifulAman",
+    "start_url": "https://sharifulaman.me",
+    "theme_color": "#000000",
+    "scope": "./",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "../public/icon.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "../public/icon.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "../public/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../public/icon.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "../public/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../public/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "../public/icon.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "../public/icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+
+                
+    ],
+    "description": ".....",
+    "screenshots": [
+        {
+            "src": "../public/icon.png",
+            "sizes": "1170x2532",
+            "type": "image/png"
+        }
+    ]
+}
